@@ -12,5 +12,9 @@ public class to_myL
 	{
 		//陪伴是最长情的告白
 	}
+	public void day4()
+	{
+		//用我的晚安陪你
+	}
 	
 }
