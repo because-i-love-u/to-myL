@@ -20,5 +20,9 @@ public class to_myL
 	{
 		//听见你熟悉的声音才最安心
 	}
+	public void day6()
+	{
+		//朝六晚九，还是记得你
+	}
 	
 }
