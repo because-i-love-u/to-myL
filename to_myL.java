@@ -24,5 +24,9 @@ public class to_myL
 	{
 		//朝六晚九，还是记得你
 	}
+	public void day7()
+	{
+		//独立，有思想，有主见
+	}
 	
 }
