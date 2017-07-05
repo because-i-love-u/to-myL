@@ -28,5 +28,9 @@ public class to_myL
 	{
 		//独立，有思想，有主见
 	}
+	public void day8()
+	{
+		//很爱很爱你
+	}
 	
 }
