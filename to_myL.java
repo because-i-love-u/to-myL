@@ -36,5 +36,9 @@ public class to_myL
 	{
 		//责怪真的很累
 	}
+	public void day10()
+	{
+		//love u
+	}
 	
 }
