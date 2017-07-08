@@ -40,5 +40,9 @@ public class to_myL
 	{
 		//love u
 	}
+	public void day11()
+	{
+		//谢谢你
+	}
 	
 }
