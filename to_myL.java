@@ -44,5 +44,9 @@ public class to_myL
 	{
 		//谢谢你
 	}
+	public void day12()
+	{
+		//wait...
+	}
 	
 }
