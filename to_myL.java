@@ -48,5 +48,9 @@ public class to_myL
 	{
 		//wait...
 	}
+	public void day13()
+	{
+		//保持离我最近的距离
+	}
 	
 }
