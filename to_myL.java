@@ -52,5 +52,9 @@ public class to_myL
 	{
 		//保持离我最近的距离
 	}
+	public void day14()
+	{
+		//加油
+	}
 	
 }
