@@ -60,5 +60,9 @@ public class to_myL
 	{
 		//很快可以见到
 	}
+	public void day16()
+	{
+		//加油
+	}
 	
 }
