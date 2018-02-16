@@ -64,5 +64,9 @@ public class to_myL
 	{
 		//加油
 	}
+	public void day17()
+	{
+		//几天不见，挺想你的
+	}
 	
 }
